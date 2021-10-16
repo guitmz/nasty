@@ -13,12 +13,13 @@
 ;       $ fasm Linux.Nasty.asm
 ;       $ echo -n 544d5a00 | xxd -r -p -s +0x9 - Linux.Nasty   
 ;
-; Payload (non destructive) is just a message displayed to stdout.
+; Payload (non destructive) is just a message displayed to stdout. This code was released in the first issue of tmp.0ut zine.
 ;
 ; A big thanks for those who keeps the VX scene alive!
 ; Feel free to email me: tmz@null.net || tmz@syscall.sh || thomazi@linux.com
 ; @guitmz || @TMZvx
 ; https://www.guitmz.com
+; https://tmpout.sh
 ; https://syscall.sh
 ;
 ; Use at your own risk.
